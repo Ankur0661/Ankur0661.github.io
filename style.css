@@ -77,7 +77,7 @@ section .title::after {
   bottom: -8px;
   left: 50%;
   font-size: 20px;
-  color: #00ffee;
+  color: #578ee0;
   padding: 0 5px;
   background: #fff;
   transform: translateX(-50%);
@@ -128,7 +128,7 @@ section .title::after {
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
-  color: #00eeff;
+  color: #578ee0;
 }
 .navbar.sticky .menu li a:hover {
   color: rgb(255, 255, 255);
@@ -154,7 +154,7 @@ section .title::after {
   bottom: 10px;
   text-align: center;
   line-height: 45px;
-  color: #00ffee;
+  color: #578ee0;
   z-index: 9999;
   font-size: 30px;
   border-radius: 6px;
@@ -205,23 +205,23 @@ section .title::after {
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
-  color: #00ffee;
+  color: #578ee0;
   font-weight: 500;
 }
 .home .home-content a {
   display: inline-block;
-  background: #02eada;
+  background: #578ee0;
   color: #fff;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
   font-weight: 400;
   border-radius: 50px;
-  border: 2px solid #00ffee;
+  border: 2px solid #578ee0;
   transition: all 0.3s ease;
 }
 .home .home-content a:hover {
-  color: #00ffee;
+  color: #578ee0;
   background: none;
 }
 #resume{
@@ -237,7 +237,7 @@ section .title::after {
 
 }
 #resume:hover{
-  color: #00ffee;
+  color: #578ee0;
   background: none;
 
 }
@@ -282,18 +282,18 @@ section .title::after {
 }
 .about .about-content .right a {
   display: inline-block;
-  background: #00ffee;
+  background: #578ee0;
   color: #fff;
   font-size: 20px;
   font-weight: 500;
   padding: 10px 30px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid #00ffee;
+  border: 2px solid #578ee0;
   transition: all 0.3s ease;
 }
 .about .about-content .right a:hover {
-  color: #00ffee;
+  color: #578ee0;
   background: none;
 }
 .about .title::after,
@@ -332,7 +332,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .services .serv-content .card:hover {
-  background: #02eada;
+  background: #578ee0;
   color: #555;
   /* change*/
 }
@@ -344,7 +344,7 @@ section .title::after {
 }
 .services .serv-content .card i {
   font-size: 50px;
-  color: #01d3f3;
+  color: #578ee0;
   transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i {
@@ -387,18 +387,18 @@ section .title::after {
 }
 .skills .skills-content .left a {
   display: inline-block;
-  background: #00ffee;
+  background: #578ee0;
   color: #fff;
   font-size: 18px;
   font-weight: 500;
   padding: 8px 16px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid #00ffee;
+  border: 2px solid #578ee0;
   transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover {
-  color: #00ffee;
+  color: #578ee0;
   background: none;
 }
 .skills .skills-content .right .bars {
@@ -426,7 +426,7 @@ section .title::after {
   height: 100%;
   left: 0;
   top: 0;
-  background: #00ffee;
+  background: #578ee0;
 }
 .skills-content .right .html::before {
   width: 90%;
@@ -505,7 +505,7 @@ section .title::after {
   /* border: 1px solid rgb(15, 15, 15); */
   /* justify-content: center;
   align-items: center; */
-  background-color: #01d3f3;
+  background-color: #578ee0;
  
 }
 
@@ -524,7 +524,7 @@ section .title::after {
   /* border: 1px solid rgb(15, 15, 15); */
   justify-content: center;
   align-items: center;
-  background-color: #01d3f3;
+  background-color: #578ee0;
  
 }
 
@@ -562,7 +562,7 @@ section .title::after {
   margin: 0 5px;
   outline: none !important;
   border-radius: 50%;
-  border: 2px solid #00ffee !important;
+  border: 2px solid #578ee0 !important;
   transition: all 0.3s ease;
 }
 .owl-dot.active {
@@ -571,7 +571,7 @@ section .title::after {
 }
 .owl-dot.active,
 .owl-dot:hover {
-  background: #00ffee !important;
+  background: #578ee0 !important;
 }
 .skills-images {
   width: 120px;
@@ -643,7 +643,7 @@ section .title::after {
 }
 .contact .contact-content .row i {
   font-size: 25px;
-  color: #00ffee;
+  color: #578ee0;
   
 }
 .contact .contact-content .info .head {
@@ -713,12 +713,12 @@ section .title::after {
   border-radius: 6px;
   cursor: pointer;
   flex-wrap: nowrap;
-  background: #00ffee;
-  border: 2px solid #00ffee;
+  background: #578ee0;
+  border: 2px solid #578ee0;
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover {
-  color: #00ffee;
+  color: #578ee0;
   background: none;
 }
 /* footer section styling */
@@ -729,7 +729,7 @@ footer {
   text-align: center;
 }
 footer span a {
-  color: #00ffee;
+  color: #578ee0;
   text-decoration: none;
 }
 footer span a:hover {
