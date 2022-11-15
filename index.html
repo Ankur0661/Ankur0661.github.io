@@ -32,7 +32,7 @@
                 <li><a href="#calender" class="menu-btn">Github Stats</a></li>
                 <!-- <li><a href="#project" class="menu-btn">Github-Stats</a></li> -->
                 <li><a href="#contact" class="menu-btn">Contact</a></li>
-                <li><a id="resume" href="https://drive.google.com/file/d/1DnOjv5NYxO_zsvnz3AV-l76vtGuK_LVt/view?usp=share_link" download target="_blank" class="menu-btn">Resume</a></li>
+                <li><a id="resume" onclick="cont()" target="_blank" download href="https://drive.google.com/file/d/1DnOjv5NYxO_zsvnz3AV-l76vtGuK_LVt/view?usp=share_link"  class="menu-btn">Resume</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
@@ -47,7 +47,7 @@
                 <div class="text-1">Hello, </div>
                 <div class="text-2">I'm Ankur !!!</div>
                 <div class="text-3">And I'm a <span class="typing"></span></div>
-                <a href="./Images/Ankur_Singh_Resume.pdf" download target="_blank">Resume</a>
+                <a  onclick="cont()" target="_blank" download href="https://drive.google.com/file/d/1DnOjv5NYxO_zsvnz3AV-l76vtGuK_LVt/view?usp=share_link">Resume</a>
             </div>
         </div>
     </section>
@@ -332,6 +332,11 @@
     GitHubCalendar(".cardcal", "Ankur0661");
 
     GitHubCalendar(".cardcal", "Ankur0661", { responsive: true });
+
+
+    function cont(){
+    return window.open('https://drive.google.com/file/d/1DnOjv5NYxO_zsvnz3AV-l76vtGuK_LVt/view?usp=share_link','-blank');
+   }
     
 </script>
   
